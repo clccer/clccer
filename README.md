@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Changer Chen, Environmental Chemists at School of Environment, South China Normal University(SCNU).
 - 👀 I’m interested in Machine Learing for Environmental applications.
-- 🌱 I’m currently learning Pytorch.
+- 🌱 I’m currently learning AOP based ML modelling for toxicity prediction/explaination.
 - 💞️ I’m looking to collaborate on Environmental problems with Machine Learning approaches.
-- 📫 How to reach me: changer.chen@m.scnu.edu.cn
+- 📫 How to reach me: changer.chen@m.scnu.edu.cn/ changer.chen@live.com
 
 <!---
 clccer/clccer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
